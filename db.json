@@ -19,6 +19,27 @@
       "email": "akash@gmail.com",
       "phone": "0136548",
       "active": true
+    },
+    {
+      "id": "5a8c",
+      "name": "Asad",
+      "email": "asad@gmail.com",
+      "phone": "014236",
+      "active": true
+    },
+    {
+      "id": "24e2",
+      "name": "Fahad",
+      "email": "fahad@gmail.com",
+      "phone": "013695842",
+      "active": true
+    },
+    {
+      "id": "10a0",
+      "name": "Rana",
+      "email": "rana@gmail.com",
+      "phone": "0326598",
+      "active": true
     }
   ]
 }
