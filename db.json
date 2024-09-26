@@ -1,4 +1,5 @@
-[
+{
+  "employee": [
     {
       "id": "1",
       "name": "Jhon",
@@ -41,3 +42,4 @@
       "active": true
     }
   ]
+}
