@@ -1,5 +1,6 @@
-[
-  {
+{
+  "employee": [
+    {
       "id": "1",
       "name": "Jhon",
       "email": "jhon@gmail.com",
@@ -16,28 +17,35 @@
       "id": "3",
       "name": "Akash",
       "email": "akash@gmail.com",
-      "phone": "0136548",
+      "phone": "013654896"
+    },
+    {
+      "id": "ceed",
+      "name": "Jisan",
+      "email": "jisan@gmail.com",
+      "phone": "0236589",
       "active": true
     },
     {
-      "id": "5a8c",
-      "name": "Asad",
-      "email": "asad@gmail.com",
-      "phone": "014236",
+      "id": "34cd",
+      "name": "Hasan",
+      "email": "hasan@gmail.com",
+      "phone": "123650",
       "active": true
     },
     {
-      "id": "24e2",
-      "name": "Fahad",
-      "email": "fahad@gmail.com",
-      "phone": "013695842",
+      "id": "a6d7",
+      "name": "Abrar",
+      "email": "abrar@gmail.com",
+      "phone": "3652987",
       "active": true
     },
     {
-      "id": "10a0",
-      "name": "Rana",
-      "email": "rana@gmail.com",
-      "phone": "0326598",
+      "id": "f785",
+      "name": "Kabir",
+      "email": "kabir@gmail.com",
+      "phone": "",
       "active": true
     }
   ]
+}
