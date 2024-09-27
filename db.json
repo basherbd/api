@@ -1,23 +1,5 @@
-[
-    {
-      "id": "1",
-      "name": "Jhon",
-      "email": "jhon@gmail.com",
-      "phone": "01765432535"
-    },
-    {
-      "id": "2",
-      "name": "Abbas",
-      "email": "abbas@gmail.com",
-      "phone": "01236548",
-      "active": true
-    },
-    {
-      "id": "3",
-      "name": "Akash",
-      "email": "akash@gmail.com",
-      "phone": "013654896"
-    },
+{
+  "employee": [
     {
       "id": "ceed",
       "name": "Jisan",
@@ -47,3 +29,4 @@
       "active": true
     }
   ]
+}
