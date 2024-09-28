@@ -1,5 +1,4 @@
-{
-  "employee": [
+[
     {
       "id": "ceed",
       "month": "January",
@@ -40,4 +39,3 @@
       "remark": ""
     }
   ]
-}
