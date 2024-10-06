@@ -23,7 +23,7 @@
       "installment_no": "",
       "installment_due": "",
       "date": "15-03-2023",
-      "remark": ""
+      "remark": "paid"
     },
     {
       "id": "a6d7",
@@ -36,7 +36,7 @@
       "installment_no": "",
       "installment_due": "",
       "date": "15-04-2023",
-      "remark": ""
+      "remark": "paid"
     },
     {
       "id": "a6k9",
@@ -49,6 +49,6 @@
       "installment_no": "",
       "installment_due": "",
       "date": "15-05-2023",
-      "remark": ""
+      "remark": "paid"
     }
   ]
