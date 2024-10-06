@@ -50,5 +50,18 @@
       "installment_due": "",
       "date": "15-05-2023",
       "remark": "paid"
-    }
+    },
+    {
+        "id": "",
+        "month": "June",
+        "saving": "500",
+        "profit": "",
+        "total": "12500",
+        "loan": "",
+        "installment": "",
+        "installment_no": "",
+        "installment_due": "",
+        "date": "15-06-2023",
+        "remark": "paid"
+      }
   ]
