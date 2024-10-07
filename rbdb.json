@@ -1,5 +1,4 @@
-{
-  "data":[
+[
     {
       "month": "January",
       "saving": "500",
@@ -75,6 +74,6 @@
       "active": true,
       "id": "5"
     }
-  ]}
+  ]
 
 
