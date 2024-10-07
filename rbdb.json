@@ -73,6 +73,36 @@
       "desc": "paid",
       "active": true,
       "id": "5"
+    },
+    {
+      "month": "June",
+      "saving": "500",
+      "profit": "",
+      "withdraw": "",
+      "total": "33132",
+      "loan": "",
+      "install": "4000",
+      "install_no": "12",
+      "install_due": "32000",
+      "date": "19-07-23",
+      "desc": "paid",
+      "active": true,
+      "id": "5"
+    },
+    {
+      "month": "July",
+      "saving": "500",
+      "profit": "",
+      "withdraw": "",
+      "total": "33632",
+      "loan": "",
+      "install": "4000",
+      "install_no": "13",
+      "install_due": "28000",
+      "date": "14-08-23",
+      "desc": "paid",
+      "active": true,
+      "id": "5"
     }
   ]
 
