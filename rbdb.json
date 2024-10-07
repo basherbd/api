@@ -1,8 +1,16 @@
 [
     {
       "month": "January",
-      "email": "nihiratechiees@gmail.com",
-      "phone": "98899090",
+      "saving": "500",
+      "profit": "",
+      "withdraw": "",
+      "total": "8000",
+      "loan": "",
+      "install": "",
+      "install_no": "",
+      "install_due": "",
+      "date": "12-02-23",
+      "desc": "paid",
       "active": true,
       "id": "1"
     },
